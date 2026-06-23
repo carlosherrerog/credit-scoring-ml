@@ -1,0 +1,21 @@
+# Datos
+data/
+*.sav
+*.csv
+*.xlsx
+
+# Modelos entrenados
+*.pkl
+*.joblib
+
+# Entorno de Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+.env
+*.log
